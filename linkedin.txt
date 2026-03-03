@@ -1,0 +1,26 @@
+I am a Machine Learning Engineer at Smartlens Inc. with a Computer Science degree and ORIE background from Cornell University. I specialize in developing AI systems for healthcare applications, particularly with computer vision models for medical imaging and FDA clinical studies.
+
+At Smartlens, I build production ML systems that directly impact patient care. I've developed multiple CNN and Vision Transformer models achieving 85% accuracy with 10ms inference speeds, supported 110+ FDA clinical studies, and improved model precision by 5x through architectural innovations from CNNs to ViTs.
+
+Technical Expertise:
+• Machine Learning: Supervised/Unsupervised Learning, Reinforcement Learning, Computer Vision
+• Deep Learning: CNNs, Vision Transformers, GANs, LLMs, LoRA, Encoder-Decoder Networks
+• Optimization: Stochastic Processes, MDPs, Mathematical Modeling
+• Programming: Python, C/C++, Java, SQL, Go, JavaScript, Rust
+• Frameworks: PyTorch, TensorFlow, Core ML, Keras, React, Gymnasium
+• Backend: FastAPI, GraphQL, REST APIs, PostgreSQL
+• Tools: Linux, Git, Docker, Tableau, Apache Airflow
+
+Professional Experience:
+• Medical AI: Image classification, segmentation, and regression for FDA clinical studies with 70-85% accuracy
+• Computer Vision: Video frame analysis, anatomical structure identification, real-time quality assessment
+• Production ML Systems: End-to-end model development, database integration of 5+ ML models for clinical deployment
+• Research & Development: Vision Transformers with LoRA fine-tuning, CNNs achieving 5x precision improvements (±1 vs ±5)
+• Cross-functional Collaboration: Working with clinical teams and regulatory affairs for FDA compliance
+• Data Pipeline Engineering: Processing thousands of medical images with scalable infrastructure
+
+My background combines mathematical foundations from ORIE with practical CS implementation skills. I'm passionate about the intersection of AI and healthcare, where the technology has more meaningful real-world impact. From optimizing complex systems through reinforcement learning to building reliable models for medical diagnosis, I like to focus on creating solutions that could improve lives.
+
+Always interested in challenging ML problems, particularly in computer vision, optimization, and healthcare applications.
+
+Authorized to work in the US without sponsorship.
